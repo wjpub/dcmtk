@@ -1,0 +1,19 @@
+{
+    "name": "wjpub/dcmtk",
+    "description": "dcm php tool",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WangJian",
+            "email": "1179398538@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
